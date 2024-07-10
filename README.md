@@ -1,0 +1,2 @@
+# bakal
+Simple function
